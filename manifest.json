@@ -1,0 +1,3 @@
+{ "name": "ElectroMart", "short_name": "ElectroMart", "start_url": "index.html", "display": "standalone",
+  "background_color": "#0c0d10", "theme_color": "#5b45ff",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }] }
